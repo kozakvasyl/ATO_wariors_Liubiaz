@@ -9,7 +9,7 @@ var buttonNext = document.querySelector('.next');
 buttonNext.addEventListener('click', next);
 
 var images = [
-	'image/Абрамович Борис Васильович.jpg',
+	'image/Абрамович_Борис_Васильович.jpg',
 	'image/Абрамович Валентин Васильович.jpg',
 	'image/Абрамович Василь Василович.jpg',
 	'image/Бадивський Іван Миколайович.jpg',
